@@ -75,6 +75,8 @@ The hybrid ensemble consistently outperformed individual models, particularly in
 ---
 
 ## Project Structure
+
+```
 ├── NLP_Project_Execution.ipynb
 ├── README.md
 ├── requirements.txt
@@ -87,6 +89,7 @@ The hybrid ensemble consistently outperformed individual models, particularly in
 └── results/
     ├── confusion_matrices/
     └── metrics.csv
+```
 
 ---
 
